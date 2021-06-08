@@ -1,0 +1,2 @@
+# Password Generator Starter Code
+This is a password generator I created with alot of help from a pre-built password generator I found on Google/Youtube, it'll prompt you with a series of questions like how many charaters you would like in the password between 8-128, if you would like special charaters, if you would like symbols and if you would like uppercase or lowercase. then it will show the password but I couldn't figure out how to make it copy the password
